@@ -12,3 +12,5 @@ def test_keys(word1, word2):
         if j - k != 0:
             return False
         return True
+
+with open('informatyka-2016-maj-matura-rozszerzona-zalaczniki')

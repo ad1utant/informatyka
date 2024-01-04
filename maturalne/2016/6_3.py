@@ -13,4 +13,5 @@ def test_keys(word1, word2):
             return False
         return True
 
-with open('informatyka-2016-maj-matura-rozszerzona-zalaczniki')
+with open('informatyka-2016-maj-matura-rozszerzona-zalaczniki','r') as ff:
+    pass
